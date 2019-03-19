@@ -42,6 +42,5 @@
 
 # 8 텍스트 분석
 
-# 9 추천 
-
-- 정리 [link](https://github.com/miniii222/BOAZ_adv_project/blob/master/study/PYTHON_ML_GUIDE%20-%20RS.md)
+# 9 추천 [Link](https://github.com/miniii222/BOAZ_adv_project/blob/master/study/PYTHON_ML_GUIDE%20-%20RS.md)
+- 따로 정리
