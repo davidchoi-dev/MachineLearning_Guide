@@ -4,7 +4,7 @@
 처음부터 차근차근 다시 정리하자!!
 
 
-# 1 파이썬 기반의 머신러닝과 생태계 이해
+# 1 파이썬 기반의 머신러닝과 생태계 이해 [Link](https://github.com/miniii222/MachineLearning_Guide/tree/master/Ch1_Understanding)
 ### numpy
 - ndarray는 같은 타입의 값들만!
 
