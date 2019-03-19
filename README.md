@@ -12,6 +12,10 @@
 - inplace=True의 return값은 None! -> inplace=True 후 새로우 변수에 할당되는 값은 None
 - axis = 0 : row / axis = 1 : columns
 - numpy [] 와 pandas dataframe []는 다름
+- loc[] : 명칭 기반 인덱싱만 가능. 
+- iloc[] : 위치 기반 인덱싱만 가능.
+- 명칭 기반 인덱싱에서 슬라이싱을 하면 종료점을 포함한 위치까지 반환
+- groupby후 agg할 때, 딕셔너리타입으로 칼럼별 다른 함수 지정 가능
 
 # 2 사이킷런으로 시작하는 머신러닝
 
