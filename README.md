@@ -38,6 +38,16 @@
 - f1 score : recall과 precision 어느 쪽도 특별하게 치우치지 않을 때, 커진다.
 
 # 4 분류
+- Naive bayes : Bayes 통계와 생성모델에 기반
+- Logistic Regression : 독립변수와 종속변수의 선형 관계성에 기반
+- Decision Tree : 데이터 균일도에 따른 규칙 기반
+- SVM : 개별 클래스 간의 최대 분류 마진을 효과적으로 찾아줌
+- Nearest Neighbor : 근접 거리를 기준으로
+- Neural Network
+- Ensemble
+- Bagging : RandomForest
+- Boosting : XGBoost, LightGBM
+
 
 # 5 회귀
 
