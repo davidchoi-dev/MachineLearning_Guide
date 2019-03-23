@@ -31,6 +31,11 @@
 - Standardization(표준화) , Normalization(정규화), vector Normaliztion(벡터 정규화)
 
 # 3 평가
+- Binarizer()를 이용하면, 특정값보다 큰 값을 1로, 작거나 같은 값을 0으로 만들 수 있다.
+- scikitlearn의 분류모델 및 예측 메커니즘은 특정 class에 속할 확률을 구한 후, 높은 곳으로 분류한다. threshold를 조정하면, 특정 class에 속할 확률이 threshold보다 커지면, 분류하는 방식.
+- predict_proba() -> Binarizer() -> 분류
+- recall : negative로 잘못 판단하면 큰일이 나는, 암 예측과 같은 곳에서 중요하게 쓰임
+- f1 score : recall과 precision 어느 쪽도 특별하게 치우치지 않을 때, 커진다.
 
 # 4 분류
 
