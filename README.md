@@ -49,7 +49,8 @@
 - Boosting : XGBoost, LightGBM
 
 
-# 5 회귀
+# 5 회귀[Link](https://github.com/miniii222/MachineLearning_Guide/tree/master/Ch5_Regression)
+- 회귀모델은 항상 다중공선성 주의! variance-bias trade-off
 
 # 6 차원 축소
 
