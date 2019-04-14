@@ -52,7 +52,12 @@
 # 5 회귀[Link](https://github.com/miniii222/MachineLearning_Guide/tree/master/Ch5_Regression)
 - 회귀모델은 항상 다중공선성 주의! variance-bias trade-off
 
-# 6 차원 축소
+# 6 차원 축소[Link](https://github.com/miniii222/MachineLearning_Guide/tree/master/Ch6_Dimension_Reduction)
+- 차원 축소의 배경에는 차원의 저주가 있다.
+- 데이터마이닝 시간에도 배웠듯이, p차원이 구가 있다고 가정하였을 때 p가 커질수록, 원점으로부터 가장 가까운 10%의 점을 뽑으려 할 때에도 점들은 기하급수적으로 원점에서 멀어진다.
+- p=10, 0.55
+- 차원이 커질수록 점들은, 표면으로 모인다.
+- 차원의 저주 관련 과제 [link](https://github.com/miniii222/study_in_graduate/blob/master/Datamining/hw1_curse_of_Dimensionality.R) 
 
 # 7 군집화
 
