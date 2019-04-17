@@ -58,7 +58,7 @@
 - p=10, 0.55
 - 차원이 커질수록 점들은, 표면으로 모인다.
 - 차원의 저주 관련 과제 [link](https://github.com/miniii222/study_in_graduate/blob/master/Datamining/hw1_curse_of_Dimensionality.R) 
-
+- PCA가 생각보다 성능이 좋다,,
 # 7 군집화
 
 # 8 텍스트 분석
