@@ -59,6 +59,13 @@
 - 차원이 커질수록 점들은, 표면으로 모인다.
 - 차원의 저주 관련 과제 [link](https://github.com/miniii222/study_in_graduate/blob/master/Datamining/hw1_curse_of_Dimensionality.R) 
 - PCA가 생각보다 성능이 좋다,,
+
+##### LDA
+- LDA가 단지 분류 모델인줄 알았다.
+- PCA처럼 차원 축소의 역할을 한다.
+- PCA와의 가장 큰 차이점은 LDA는 지도학습이라서, y가 있다는 점. PCA는 비지도학습
+
+
 # 7 군집화
 
 # 8 텍스트 분석
