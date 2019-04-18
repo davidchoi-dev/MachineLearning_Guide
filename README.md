@@ -67,6 +67,7 @@
 
 
 # 7 군집화
+- R로 K-means 알고리즘 구현 [link](https://github.com/miniii222/study_in_graduate/blob/master/computational%20statistics/local_optim%20-%20Kmeans.R)
 
 # 8 텍스트 분석
 
