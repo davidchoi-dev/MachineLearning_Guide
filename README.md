@@ -68,6 +68,12 @@
 
 # 7 군집화
 - R로 K-means 알고리즘 구현 [link](https://github.com/miniii222/study_in_graduate/blob/master/computational%20statistics/local_optim%20-%20Kmeans.R)
+##### `Silhouette analysis` 
+- 클러스터링이 잘 되었는지 계산해볼 수 있다.
+- 1에 가까울수록 좋다고 판단
+- 직관적으로 이해가 쉽지만, 각 데이터별로 다른 데이터와의 거리를 반복적으로 계산해야 한다.
+- 메모리 부족의 우려가 있다.
+- 샘플링하여 실루엣 계수를 
 
 # 8 텍스트 분석
 
