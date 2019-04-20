@@ -75,10 +75,12 @@
 - 메모리 부족의 우려가 있다.
 - 샘플링하여 실루엣 계수를 
 
-#####`mean shift`
+##### `mean shift`
 - 나는 클러스터링 방법론 중 하나로 mean shift를 접했는데, 영상에서 detection할 때, 쓰인다고 한다!
+- 유연한 군집화가 가능. 이상치의 영향력도 작음.
+- 오래 걸림.
 
-#####`KDE(Kernel Density Estimation)`
+##### `KDE(Kernel Density Estimation)`
 - 참고 [link](https://darkpgmr.tistory.com/147)
 - mean shift 알고리즘에서 확률밀도 함수를 찾기 위해 쓰이는 방법
 - 일단, Kernel function이란, 수학적으로 원점을 중심으로 좌우대칭이면서 적분값이 1인 non-negative함수
