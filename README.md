@@ -77,10 +77,14 @@
 
 #####`mean shift`
 - 나는 클러스터링 방법론 중 하나로 mean shift를 접했는데, 영상에서 detection할 때, 쓰인다고 한다!
+
 #####`KDE(Kernel Density Estimation)`
 - mean shift 알고리즘에서 확률밀도 함수를 찾기 위해 쓰이는 방법
 - 일단, Kernel function이란, 수학적으로 원점을 중심으로 좌우대칭이면서 적분값이 1인 non-negative함수
 ![image](https://t1.daumcdn.net/cfile/tistory/271C823C54F00FF520)
+
+- K라는 kernel function의 확률밀도함수를 non-parametric 방법으로 h(bandwidth)에 따라 추정하는 방법.
+![imgae](https://t1.daumcdn.net/cfile/tistory/261A943654F0325532)
 
 # 8 텍스트 분석
 
